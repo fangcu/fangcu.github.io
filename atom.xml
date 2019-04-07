@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>方寸天地宽的博客</title>
   <icon>https://www.gravatar.com/avatar/db86d3cc662834c5a68f8c26985593fa</icon>
-  
+  <subtitle>时光，浓淡相宜；人心，远近相安</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>twinkle0331</name>
+    <name>方寸天地宽</name>
     <email>1935416202@qq.com</email>
   </author>
   
